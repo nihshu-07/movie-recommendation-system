@@ -2,7 +2,7 @@
 
 A content based movie recommendation system built using Python, Pandas, and Streamlit that suggests similar movies based on user selection. The app also displays movie posters, ratings, genres, and overview using the TMDB API.
 
---
+---
 
 ## 🚀 Features
 - 🔍 Select any movie from the dropdown
@@ -13,7 +13,7 @@ A content based movie recommendation system built using Python, Pandas, and Stre
 - 🎨 Modern UI with custom CSS styling
 - ⚡ Fast and interactive Streamlit app
 
---
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,13 +24,13 @@ A content based movie recommendation system built using Python, Pandas, and Stre
 - Pickle
 - TMDB API
 
---
+---
 
 ## 📸 Screenshots
 
 <img width="1903" height="901" alt="image" src="https://github.com/user-attachments/assets/73b588a9-b2bf-4459-866d-58b0d246ab26" />
 
---
+---
 
 ## 💡 Future Improvements
 - 🔎 Search based recommendations
@@ -40,7 +40,7 @@ A content based movie recommendation system built using Python, Pandas, and Stre
 - 🌐 Deploy on Streamlit Cloud / AWS
 - 🎯 Use Case
 
---
+---
 
 ## This project demonstrates:
 
